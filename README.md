@@ -4,9 +4,11 @@
 
 My personal portfolio website — a place to showcase the software, hardware, 3D printing, robotics and engineering projects I'm working on.
 
-🌐 **Live website:** [Coming soon]
+**Live website:** [Vercel](https://aditya-portfolio-ten-eta.vercel.app)
+PLEASE IGNORE THE GITHUB PAGES DEPLOYMENT OF THE SITE IT IS GLITCHED!!!
 
-💻 **GitHub:** [AdityaJainDXB](https://github.com/AdityaJainDXB)
+**GitHub:** [AdityaJainDXB](https://github.com/AdityaJainDXB)
+
 
 ---
 
