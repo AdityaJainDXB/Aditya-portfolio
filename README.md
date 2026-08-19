@@ -114,7 +114,7 @@ The site is also designed to be responsive, so the layout adapts between desktop
 | Tailwind CSS | Styling |
 | Framer Motion | Animations |
 | Lucide React | Icons |
-| GitHub Pages | Hosting |
+| Vercel | Hosting |
 
 ---
 
